@@ -1,20 +1,15 @@
-# uEdition-editor
+# μEdition Editor
 
 [![PyPI - Version](https://img.shields.io/pypi/v/uedition-editor.svg)](https://pypi.org/project/uedition-editor)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/uedition-editor.svg)](https://pypi.org/project/uedition-editor)
+
+The μEdition Editor is a web-based editor for [μEditions](https://uedition.readthedocs.io).
 
 -----
 
 **Table of Contents**
 
-- [Installation](#installation)
 - [License](#license)
-
-## Installation
-
-```console
-pip install uedition-editor
-```
 
 ## License
 
